@@ -1,0 +1,26 @@
+{
+  "name": "project2",
+  "version": "1.0.0",
+  "description": "This is second learning project of node ",
+  "main": "app.js",
+  "dependencies": {
+    "express": "^4.17.1",
+    "handlebars": "^4.7.6",
+    "hbs": "^4.1.1",
+    "path": "^0.12.7"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.6"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon app.js -e js,hbs"
+  },
+  "keywords": [
+    "node",
+    "express",
+    "new project"
+  ],
+  "author": "Aniket singh",
+  "license": "ISC"
+}
