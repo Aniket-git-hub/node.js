@@ -6,3 +6,6 @@
     writing-mode: vertical-rl;
     transform: rotate(180deg);
 }
+.letter-spacing{
+    letter-spacing: 2px;
+}
